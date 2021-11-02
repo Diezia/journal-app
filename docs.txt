@@ -1,0 +1,6 @@
+Pasos para aplicar redux: 
+Crear el storage.
+Reducers.
+Actions.
+
+En el uso del reducer sin redux, se llama igual el dispatch? Acá se llama con un action como argumento y eso resuelve solito en llamar al reducer que corresponda según el type que tenga el action que se mandó como argumento en el dispatch (wtf). Osea que una vez que creé el reducer que maneja los diferentes tipos de acciones, ya no lo tengo que importar más ni utilizar en ningún lado.

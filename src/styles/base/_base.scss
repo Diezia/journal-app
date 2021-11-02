@@ -1,0 +1,30 @@
+// Configuraciones globales que va a tener toda la aplicación
+* {
+    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+    margin: 0;
+}
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+.mt-1 {
+    margin-top: 5px;
+}
+.mt-5 {
+    margin-top: 20px;
+}
+.mb-1 {
+    margin-bottom: 5px;
+}
+.mb-5 {
+    margin-bottom: 20px;
+}
+.pointer {
+    cursor: pointer;
+}
+.flex-auto {
+    flex: 1 1 auto;
+}
+.d-flex {
+    display: flex;
+}
